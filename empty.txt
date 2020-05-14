@@ -3,11 +3,6 @@ r
 r
 	
 fdf
-<<<<<<< Updated upstream
-=======
 2442
 fadffaf
-dfafaf
 dfafa
-sfa
->>>>>>> Stashed changes
